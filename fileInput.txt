@@ -6,6 +6,19 @@ Post finishing the 21 day challenge, I decided to make amends. The 'Daily proble
 
 I thank Deutsche Bank for providing me with this opportunity to grow and I look forward to using the knowledge aggrend through this challenge to tackle future race horses
 
+--------------------------------
+
+
+In summary  participating in the 21-day POTD challenge hosted by Deutsche Bank was a life-changing and very satisfying experience for me. Throughout this journey  I encountered many difficult problems in C++ like 'Middle of Linked List'  'Mirror Tree'  'Binary Tree to DLL'  'Longest Valid Brackets'  and 'Missing and Duplicate Numbers'. Solving these problems helped me learn more about fundamental data structures like linked lists  binary trees  dynamic programming  and the complex algorithms that manipulate strings. 
+
+Writing solutions for problems such as 'Clone linked list with next pointer and random pointer' and 'Smallest window in string' not only improved my problem-solving skills but also taught me the importance of writing highly optimized code and following best coding practices. 
+
+After completing the 21-day challenge  I decided to make some changes. I still face new 'Daily problems' every day and I am excited to work on solving them. I believe that I will continue this practice for as long as possible as a way to continuously improve myself. This habit of constant learning has helped me grow and develop as a programmer.
+
+----------------------------------------
+
+
+
 
 
 The Power of Consistency: Reflecting on the 21-Day
