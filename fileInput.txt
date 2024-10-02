@@ -5,3 +5,44 @@ Writing the solutions to problems like 'Clone linked list with next pointer and 
 Post finishing the 21 day challenge, I decided to make amends. The 'Daily problems' still come and every day is a new day where I look forward on a problem to work on to. I strongly think that I will go on to do this for as long as I can and use this for a long term commitment to self improvement. This habit of continuous learning has made me improve. It has made me confident about tackling difficult problems in computing and most importantly the uncertainty of where I can apply my knowledge gained through this experience, puts me in a good position regarding interviews or for dealing with scenarios at work. In a nut shell, this has helped me grow technically advanced and have bestowed upon me a state of mind that will make me disciplined, push me to grow to be better every day and give me the attitude of perseverance. 
 
 I thank Deutsche Bank for providing me with this opportunity to grow and I look forward to using the knowledge aggrend through this challenge to tackle future race horses
+
+
+
+The Power of Consistency: Reflecting on the 21-Day
+
+POTD Streak Challenge by Deutsche Bank and
+
+GeeksforGeeks++
+
+I recently completed the 21-day Problem of the Day (POTD) streak, powered by Deutsche Bank, and I have to say, it's been an incredible journey of growth, learning, and consistency.
+
+When I started this challenge, my primary goal was to stay consistent for the next 21 days. But what I gained along the way was much more than just a streak. I've realized that true growth comes from discipline- showing up every day and putting in the effort, even when it's hard or when motivation fades. This challenge pushed me to solve at least one problem daily, and that discipline has turned into a habit that
+
+I'm proud of today. Throughout these 21 days, I faced challenges of different types-some were familiar concepts that reinforced my understanding, while others were completely new and made me think outside the box. The streak challenged me to learn new techniques, explore different ways of approaching problems, and refine my problem-solving skills in ways I hadn't
+
+before.
+
+If it weren't for this challenge, I honestly doubt I would have developed the habit of solving a coding problem every day. There are always distractions, and without a solid plan, it's easy to postpone tasks and lose focus. This streak kept me committed, and after a few days, solving a problem each day became a part of my daily routine.
+
+The challenges covered a wide range of topics-from data structures like linked lists, binary trees, and heaps, to algorithms involving sorting, searching, and optimization. Each problem pushed me just enough to grow, and with every solution, I felt a sense of accomplishment.
+
+What I learned during this challenge isn't just limited to coding. I learned the importance of breaking down problems methodically, keeping a cool head when things got tough, and recognising that every small step counts in achieving a bigger goal.
+
+With this 21-day challenge complete, I now feel confident and motivated to continue this habit of solving daily problems. It's no longer just about the streak or the reward-it's about the mindset I've developed, the discipline I've built, and the belief that every day brings an opportunity to learn and get better.
+
+A big shoutout to Deutsche Bank and GeeksforGeeks and Sandeep Jain Sir for organizing this challenge
+
+Your initiatives are helping learners like me grow not just as coders, but as lifelong learners. The challenges, the community, and the support made this journey enjoyable, and it's something I'll cherish. I'm committed to keeping this habit alive-l will
+
+continue solving the POTD every single day. Because
+
+consistency isn't just about a streak; it's a lifestyle that
+
+leads to long-term success.
+
+#geekstreak2024 # DeutscheBank #POTD
+
+#CodingChallenge #21DaysOfGrowth #Consistency #Discipline #Problem Solving #TechJourney #KeepLearning #NeverStopGrowing
+
+#Developer Journey #Grateful
+
