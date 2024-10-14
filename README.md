@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository, where I track my daily progress on GeeksforGeeks' **Problem of the Day (POTD)** challenges! I upload a screenshot of each day's completion as part of my journey to stay consistent and improve my problem-solving skills.
 
-## 📅 Current Streak: 31 Days
+## 📅 Current Streak: 33 Days
 
 I am committed to solving a GFG POTD every day, and I will continue to upload my progress as long as my streak remains unbroken. If my streak breaks, I'll pick up right where I left off and keep pushing forward.
 
