@@ -1,6 +1,13 @@
 # GeeksforGeeks Problem of the Day (POTD) Progress
 
 https://www.instructables.com/How-to-Control-a-Servo-Using-GRBL/
+
+
+https://www.ubuy.co.in/productuk/1PJTQHQI6-qpx-grbl-controller-board-3-axis-controller-panel-for-diy-cnc-3018-1610-2418?ref=hm-google-redirect
+
+
+
+
 Welcome to my GitHub repository, where I track my daily progress on GeeksforGeeks' **Problem of the Day (POTD)** challenges! I upload a screenshot of each day's completion as part of my journey to stay consistent and improve my problem-solving skills.
 
 ## 📅 Current Streak: 98 Days
